@@ -1,0 +1,4 @@
+my-component-a:not([hydrated]) {
+  visibility: hidden;
+  pointer-events: none;
+}
